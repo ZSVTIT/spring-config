@@ -41,7 +41,7 @@
             <scope>test</scope>
         </dependency>
         <!-- Spring Boot End -->
-
+<!---->
         <!-- Spring Cloud Begin -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
